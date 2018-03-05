@@ -1,0 +1,6438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMonster xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Monster>
+    <Name>Aarakocra</Name>
+    <Type>Humanoid</Type>
+    <SubType>Aarakocra</SubType>
+    <Territory>Plane of Air</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Good</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>013 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>012</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>1</ID>
+  </Monster>
+  <Monster>
+    <Name>Aboleth</Name>
+    <Type>Aberration</Type>
+    <SubType />
+    <Territory>Plane of Water, Rivers, Lakes, Ocean</Territory>
+    <ChallengeRating>10 (5,900 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>135 (18d10 + 36)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>013</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>2</ID>
+  </Monster>
+  <Monster>
+    <Name>Deva</Name>
+    <Type>Celestial</Type>
+    <SubType>Angel</SubType>
+    <Territory />
+    <ChallengeRating>10 (5,900 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>136 (16d8 + 64)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>016</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>3</ID>
+  </Monster>
+  <Monster>
+    <Name>Planetar</Name>
+    <Type>Celestial</Type>
+    <SubType>Angel</SubType>
+    <Territory />
+    <ChallengeRating>16 (15,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>200 (16d10 + 112)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>017</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>4</ID>
+  </Monster>
+  <Monster>
+    <Name>Solar</Name>
+    <Type>Celestial</Type>
+    <SubType>Angel</SubType>
+    <Territory />
+    <ChallengeRating>21 (33,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>21</ArmorClass>
+    <HealthPoints>243 (18d10 + 144)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>018</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>5</ID>
+  </Monster>
+  <Monster>
+    <Name>Animated Armor</Name>
+    <Type>Construct</Type>
+    <SubType>Animated Object</SubType>
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>033 (6d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>019</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>6</ID>
+  </Monster>
+  <Monster>
+    <Name>Flying Sword</Name>
+    <Type>Construct</Type>
+    <SubType>Animated Object</SubType>
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>017 (5d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>020</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>7</ID>
+  </Monster>
+  <Monster>
+    <Name>Rug of Smothering</Name>
+    <Type>Construct</Type>
+    <SubType>Animated Object</SubType>
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>033 (6d10)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>020</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>152</ID>
+  </Monster>
+  <Monster>
+    <Name>Ankheg</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Ankheg</SubType>
+    <Territory>Underground, Plains, Forest</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>039 (6d10 + 6)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>021</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>9</ID>
+  </Monster>
+  <Monster>
+    <Name>Azer</Name>
+    <Type>Elemental</Type>
+    <SubType>Azer, Fire Elemental</SubType>
+    <Territory>Plane of Fire</Territory>
+    <ChallengeRating>17 (18,000 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>039 (6d8 + 12)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>022</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>10</ID>
+  </Monster>
+  <Monster>
+    <Name>Banshee</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>058 (13d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>023</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>11</ID>
+  </Monster>
+  <Monster>
+    <Name>Basilisk</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Caves, Underground, Caverns</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>052 (8d8 + 16)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>024</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>12</ID>
+  </Monster>
+  <Monster>
+    <Name>Behir</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Caves, Underground, Caverns</Territory>
+    <ChallengeRating>11 (7,200 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>168 (16d12 + 64)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>025</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>13</ID>
+  </Monster>
+  <Monster>
+    <Name>Beholder</Name>
+    <Type>Aberration</Type>
+    <SubType>Beholder</SubType>
+    <Territory>Caves, Underground, Caverns</Territory>
+    <ChallengeRating>13 (10,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>180 (19d10 + 76)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>028</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes>CR 14 (11500 XP) while in Lair</Notes>
+    <ID>14</ID>
+  </Monster>
+  <Monster>
+    <Name>Death Tyrant</Name>
+    <Type>Undead</Type>
+    <SubType>Beholder</SubType>
+    <Territory>Caves, Underground, Caverns</Territory>
+    <ChallengeRating>14 (11,500 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>187 (25d10 + 50)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>029</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes>CR 15 (13000 XP) While in Lair</Notes>
+    <ID>15</ID>
+  </Monster>
+  <Monster>
+    <Name>Spectator</Name>
+    <Type>Aberration</Type>
+    <SubType>Beholder</SubType>
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>039 (6d8 + 12)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>030</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>16</ID>
+  </Monster>
+  <Monster>
+    <Name>Needle Blight</Name>
+    <Type>Plant</Type>
+    <SubType>Blight</SubType>
+    <Territory>Forest</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>032</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>17</ID>
+  </Monster>
+  <Monster>
+    <Name>Twig Blight</Name>
+    <Type>Plant</Type>
+    <SubType>Blight</SubType>
+    <Territory>Forest</Territory>
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>004 (1d6 + 1)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>032</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>18</ID>
+  </Monster>
+  <Monster>
+    <Name>Vine Blight</Name>
+    <Type>Plant</Type>
+    <SubType>Blight</SubType>
+    <Territory>Forest</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>026 (4d8 + 8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>032</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>19</ID>
+  </Monster>
+  <Monster>
+    <Name>Bugbear</Name>
+    <Type>Humanoid</Type>
+    <SubType>Goblinoid</SubType>
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>027 (5d8 + 5)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>033</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>20</ID>
+  </Monster>
+  <Monster>
+    <Name>Bugbear Chief</Name>
+    <Type>Humanoid</Type>
+    <SubType>Goblinoid</SubType>
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>065 (10d8 + 20)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>033</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>21</ID>
+  </Monster>
+  <Monster>
+    <Name>Bulette</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Underground, Plains, Forest</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>094 (9d10 + 45)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>034</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>22</ID>
+  </Monster>
+  <Monster>
+    <Name>Bullywug</Name>
+    <Type>Humanoid</Type>
+    <SubType>Bullywug</SubType>
+    <Territory>Rainforest, Jungle, Marshes, Damp Caves</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>035</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>23</ID>
+  </Monster>
+  <Monster>
+    <Name>Cambion</Name>
+    <Type>Fiend</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>082 (11d8 + 33)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>036</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>24</ID>
+  </Monster>
+  <Monster>
+    <Name>Carrion Crawler</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Caves, Sewers, Dungeons, Forest, Marshes</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>051 (6d10 + 18)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>037</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>25</ID>
+  </Monster>
+  <Monster>
+    <Name>Centaur</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Plains, Desert, Forest</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Neutral Good</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>045 (6d10 + 12)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>038</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>26</ID>
+  </Monster>
+  <Monster>
+    <Name>Chimera</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>114 (12d10 + 48)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>039</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>27</ID>
+  </Monster>
+  <Monster>
+    <Name>Chuul</Name>
+    <Type>Aberration</Type>
+    <SubType />
+    <Territory>Oceans</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>093 (11d10 + 33)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>040</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>28</ID>
+  </Monster>
+  <Monster>
+    <Name>Cloaker</Name>
+    <Type>Aberration</Type>
+    <SubType />
+    <Territory>Dungeons, Caves, Caverns</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>078 (12d10 + 12)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>041</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>29</ID>
+  </Monster>
+  <Monster>
+    <Name>Cockatrice</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>027 (6d6 + 6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>042</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>30</ID>
+  </Monster>
+  <Monster>
+    <Name>Couatl</Name>
+    <Type>Celestial</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>097 (13d8 + 39)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>043</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>31</ID>
+  </Monster>
+  <Monster>
+    <Name>Crawling Claw</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>002 (1d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>044</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>32</ID>
+  </Monster>
+  <Monster>
+    <Name>Cyclops</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory>Caves, Ruins</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>138 (12d12 + 60)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>045</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>33</ID>
+  </Monster>
+  <Monster>
+    <Name>Darkmantle</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Caves, Dungeons, Underdark, Shadowfell</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>022 (5d6 + 5)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>046</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>34</ID>
+  </Monster>
+  <Monster>
+    <Name>Death Knight</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>17 (18,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>180 (19d8 + 95)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>047</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>35</ID>
+  </Monster>
+  <Monster>
+    <Name>Demilich</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>18 (20,000 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>080 (20d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>048</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes>CR 20 (24500 XP) While in Lair</Notes>
+    <ID>36</ID>
+  </Monster>
+  <Monster>
+    <Name>Balor</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>19 (22,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>262 (21d12 + 126)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>055</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>37</ID>
+  </Monster>
+  <Monster>
+    <Name>Barlgura</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>068 (8d10 + 24)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>056</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>38</ID>
+  </Monster>
+  <Monster>
+    <Name>Chasme</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>084 (13d10 + 13)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>057</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>39</ID>
+  </Monster>
+  <Monster>
+    <Name>Dretch</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>018 (4d6 + 4)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>057</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>40</ID>
+  </Monster>
+  <Monster>
+    <Name>Glabrezu</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>157 (15d10 + 75)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>058</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>41</ID>
+  </Monster>
+  <Monster>
+    <Name>Goristro</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>17 (18,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>310 (23d12 + 161)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>059</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>42</ID>
+  </Monster>
+  <Monster>
+    <Name>Hezrou</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>136 (13d10 + 65)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>060</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>43</ID>
+  </Monster>
+  <Monster>
+    <Name>Manes</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>09</ArmorClass>
+    <HealthPoints>009 (2d6 + 2)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>060</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>44</ID>
+  </Monster>
+  <Monster>
+    <Name>Marilith</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>16 (15,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>189 (18d10 + 90)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>061</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>45</ID>
+  </Monster>
+  <Monster>
+    <Name>Nalfeshnee</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>13 (10,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>184 (16d10 + 96)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>062</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>46</ID>
+  </Monster>
+  <Monster>
+    <Name>Quasit</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon, Shapechanger</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>007 (3d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>063</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>47</ID>
+  </Monster>
+  <Monster>
+    <Name>Shadow Demon</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>066 (12d8 + 12)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>064</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>48</ID>
+  </Monster>
+  <Monster>
+    <Name>Vrock</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>104 (11d10 + 44)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>064</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>49</ID>
+  </Monster>
+  <Monster>
+    <Name>Yochlol</Name>
+    <Type>Fiend</Type>
+    <SubType>Demon, Shapechanger</SubType>
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>10 (5,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>136 (16d8 + 64)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>065</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>50</ID>
+  </Monster>
+  <Monster>
+    <Name>Barbed Devil</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>110 (13d8 + 52)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>070</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>51</ID>
+  </Monster>
+  <Monster>
+    <Name>Bearded Devil</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>052 (8d8 + 16)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>070</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>52</ID>
+  </Monster>
+  <Monster>
+    <Name>Bone Devil</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>142 (15d10 + 60)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>071</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>53</ID>
+  </Monster>
+  <Monster>
+    <Name>Chain Devil</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>085 (10d8 + 40)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>072</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>54</ID>
+  </Monster>
+  <Monster>
+    <Name>Erinyes</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>12 (8,400 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>153 (18d8 + 72)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>073</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>55</ID>
+  </Monster>
+  <Monster>
+    <Name>Horned Devil</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>11 (7,200 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>148 (17d10 + 55)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>074</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>56</ID>
+  </Monster>
+  <Monster>
+    <Name>Ice Devil</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>14 (11,500 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>180 (19d10 + 76)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>075</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>57</ID>
+  </Monster>
+  <Monster>
+    <Name>Imp</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil, Shapechanger</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>010 (3d4 + 3)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>076</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>58</ID>
+  </Monster>
+  <Monster>
+    <Name>Lemure</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>07</ArmorClass>
+    <HealthPoints>013 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>076</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>59</ID>
+  </Monster>
+  <Monster>
+    <Name>Pit Fiend</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>20 (25,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>300 (24d10 + 168)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>077</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>60</ID>
+  </Monster>
+  <Monster>
+    <Name>Spined Devil</Name>
+    <Type>Fiend</Type>
+    <SubType>Devil</SubType>
+    <Territory>The Nine Hells</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>022 (5d6 + 5)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>078</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>61</ID>
+  </Monster>
+  <Monster>
+    <Name>Allosaurus</Name>
+    <Type>Beast</Type>
+    <SubType>Dinosaur</SubType>
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>051 (6d10 + 18)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>079</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>62</ID>
+  </Monster>
+  <Monster>
+    <Name>Ankylosaurus</Name>
+    <Type>Beast</Type>
+    <SubType>Dinosaur</SubType>
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>068 (8d12 + 16)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>079</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>63</ID>
+  </Monster>
+  <Monster>
+    <Name>Plesiosaurus</Name>
+    <Type>Beast</Type>
+    <SubType>Dinosaur</SubType>
+    <Territory>Oceans, Lakes, Rivers</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>068 (8d10 + 24)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>080</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>64</ID>
+  </Monster>
+  <Monster>
+    <Name>Triceratops</Name>
+    <Type>Beast</Type>
+    <SubType>Dinosaur</SubType>
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>095 (10d12 + 30)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>080</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>65</ID>
+  </Monster>
+  <Monster>
+    <Name>Pteranodon</Name>
+    <Type>Beast</Type>
+    <SubType>Dinosaur</SubType>
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>013 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>080</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>66</ID>
+  </Monster>
+  <Monster>
+    <Name>Tyrannosaurus Rex</Name>
+    <Type>Beast</Type>
+    <SubType>Dinosaur</SubType>
+    <Territory />
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>136 (13d12 + 52)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>080</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>67</ID>
+  </Monster>
+  <Monster>
+    <Name>Displacer Beast</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory>Feywild, Forest, Jungle</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>085 (10d10 + 30)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>081</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>68</ID>
+  </Monster>
+  <Monster>
+    <Name>Doppelganger</Name>
+    <Type>Monstrosity, Shapechanger</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>052 (8d8 + 16)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>082</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>69</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Dracolich</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>17 (18,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>225 (18d12 + 108)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>084</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>70</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Dracolich</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>21 (33,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>22</ArmorClass>
+    <HealthPoints>367 (21d20 + 147)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>084</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>71</ID>
+  </Monster>
+  <Monster>
+    <Name>Shadow Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>033 (6d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>085</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>72</ID>
+  </Monster>
+  <Monster>
+    <Name>Shadow Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating />
+    <Alignment>Evil</Alignment>
+    <ArmorClass />
+    <HealthPoints />
+    <Size />
+    <PageNumber>085</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>73</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Black Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Swamps, Marshes</Territory>
+    <ChallengeRating>21 (33,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>22</ArmorClass>
+    <HealthPoints>367 (21d20 + 147)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>087</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>74</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Black Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Swamps, Marshes</Territory>
+    <ChallengeRating>14 (11,500 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>195 (17d12 + 85)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>088</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>75</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Black Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Swamps, Marshes</Territory>
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>127 (15d10 + 45)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>088</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>76</ID>
+  </Monster>
+  <Monster>
+    <Name>Black Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Swamps, Marshes</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>033 (6d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>088</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>77</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Blue Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Desert, Steppes</Territory>
+    <ChallengeRating>23 (50,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>22</ArmorClass>
+    <HealthPoints>481 (26d20 + 208)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>090</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>78</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Blue Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Desert, Steppes</Territory>
+    <ChallengeRating>16 (15,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>225 (18d12 + 108)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>091</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>79</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Blue Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Desert, Steppes</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>152 (16d10 + 64)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>091</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>80</ID>
+  </Monster>
+  <Monster>
+    <Name>Blue Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Desert, Steppes</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>052 (8d8 + 16)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>091</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>81</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Green Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Forest, Taiga</Territory>
+    <ChallengeRating>22 (41,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>21</ArmorClass>
+    <HealthPoints>385 (22d20 + 154)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>093</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>82</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Green Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Forest, Taiga</Territory>
+    <ChallengeRating>15 (13,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>207 (18d12 + 90)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>094</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>83</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Green Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Forest, Taiga</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>136 (16d10 + 48)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>094</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>84</ID>
+  </Monster>
+  <Monster>
+    <Name>Green Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Forest, Taiga</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>038 (7d8 + 7)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>095</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>85</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Red Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Mountains</Territory>
+    <ChallengeRating>24 (62,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>22</ArmorClass>
+    <HealthPoints>546 (28d20 + 252)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>097</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>86</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Red Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Mountains</Territory>
+    <ChallengeRating>17 (18,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>256 (19d12 + 133)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>098</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>87</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Red Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Mountains</Territory>
+    <ChallengeRating>10 (5,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>178 (17d10 + 85)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>098</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>88</ID>
+  </Monster>
+  <Monster>
+    <Name>Red Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Mountains</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>075 (10d8 + 30)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>098</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>89</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient White Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Ice Caves, Mountain Caverns</Territory>
+    <ChallengeRating>20 (25,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>333 (18d20 + 144)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>100</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>90</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult White Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Ice Caves, Mountain Caverns</Territory>
+    <ChallengeRating>13 (10,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>200 (16d12 + 96)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>101</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>91</ID>
+  </Monster>
+  <Monster>
+    <Name>Young White Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Ice Caves, Mountain Caverns</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>133 (14d10 + 56)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>101</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>92</ID>
+  </Monster>
+  <Monster>
+    <Name>White Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Ice Caves, Mountain Caverns</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>032 (5d8 + 10)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>102</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>93</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Brass Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Desert, Steppes</Territory>
+    <ChallengeRating>20 (25,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>297 (17d20 + 119)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>104</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>94</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Brass Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Desert, Steppes</Territory>
+    <ChallengeRating>13 (10,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>172 (15d12 + 75)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>105</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>95</ID>
+  </Monster>
+  <Monster>
+    <Name>Younge Brass Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Desert, Steppes</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>110 (13d10 + 39)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>105</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>96</ID>
+  </Monster>
+  <Monster>
+    <Name>Brass Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Desert, Steppes</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>016 (3d8 + 3)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>106</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>97</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Bronze Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Coastline</Territory>
+    <ChallengeRating>22 (41,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>22</ArmorClass>
+    <HealthPoints>444 (24d20 + 192)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>107</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>98</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Bronze Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Coastline</Territory>
+    <ChallengeRating>15 (13,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>212 (17d12 + 102)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>108</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>99</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Bronze Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Coastline</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>142 (15d10 + 60)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>108</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>100</ID>
+  </Monster>
+  <Monster>
+    <Name>Bronze Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Coastline</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>032 (5d8 + 10)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>109</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>101</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Copper Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Hills</Territory>
+    <ChallengeRating>21 (33,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>21</ArmorClass>
+    <HealthPoints>350 (20d20 + 140)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>110</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>102</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Copper Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Hills</Territory>
+    <ChallengeRating>14 (11,500 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>184 (16d12 + 80)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>111</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>103</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Copper Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Hills</Territory>
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>119 (14d10 + 42)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>111</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>104</ID>
+  </Monster>
+  <Monster>
+    <Name>Copper Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Hills</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>022 (4d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>112</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>105</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Gold Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Lakes, Islands, Caves, Ruins</Territory>
+    <ChallengeRating>24 (62,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>22</ArmorClass>
+    <HealthPoints>546 (28d20 + 252)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>113</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>106</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Gold Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Lakes, Islands, Caves, Ruins</Territory>
+    <ChallengeRating>17 (18,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>256 (19d12 + 133)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>114</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>107</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Gold Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Lakes, Islands, Caves, Ruins</Territory>
+    <ChallengeRating>10 (5,900 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>178 (17d10 + 85)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>115</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>108</ID>
+  </Monster>
+  <Monster>
+    <Name>Gold Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Lakes, Islands, Caves, Ruins</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>060 (8d8 + 24)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>115</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>109</ID>
+  </Monster>
+  <Monster>
+    <Name>Ancient Silver Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Mountain Peaks, Caverns</Territory>
+    <ChallengeRating>23 (50,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>22</ArmorClass>
+    <HealthPoints>487 (25d20 + 225)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>116</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>110</ID>
+  </Monster>
+  <Monster>
+    <Name>Adult Silver Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Mountain Peaks, Caverns</Territory>
+    <ChallengeRating>16 (15,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>243 (18d12 + 126)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>117</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>111</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Silver Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Mountain Peaks, Caverns</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>168 (16d10 + 80)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>118</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>112</ID>
+  </Monster>
+  <Monster>
+    <Name>Silver Dragon Wyrmling</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Mountain Peaks, Caverns</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>045 (6d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>118</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>113</ID>
+  </Monster>
+  <Monster>
+    <Name>Dragon Turtle</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Oceans, Underwater Caves</Territory>
+    <ChallengeRating>17 (18,000 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>341 (22d20 + 110)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>119</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>114</ID>
+  </Monster>
+  <Monster>
+    <Name>Drider</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Drow</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>123 (13d10 + 52)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>120</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>115</ID>
+  </Monster>
+  <Monster>
+    <Name>Dryad</Name>
+    <Type>Fey</Type>
+    <SubType />
+    <Territory>Forests, Jungle, Feywild</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>022 (5d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>121</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>116</ID>
+  </Monster>
+  <Monster>
+    <Name>Duergar</Name>
+    <Type>Humanoid</Type>
+    <SubType>Dwarf</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>026 (4d8 + 8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>122</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>117</ID>
+  </Monster>
+  <Monster>
+    <Name>Air Elemental</Name>
+    <Type>Elemental</Type>
+    <SubType>Air Elemental</SubType>
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>090 (12d10 + 24)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>124</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>118</ID>
+  </Monster>
+  <Monster>
+    <Name>Earth Elemental</Name>
+    <Type>Elemental</Type>
+    <SubType>Earth Elemental</SubType>
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>126 (12d10 + 60)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>124</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>119</ID>
+  </Monster>
+  <Monster>
+    <Name>Fire Elemental</Name>
+    <Type>Elemental</Type>
+    <SubType>Fire Elemental</SubType>
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>102 (12d10 + 36)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>125</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>120</ID>
+  </Monster>
+  <Monster>
+    <Name>Water Elemental</Name>
+    <Type>Elemental</Type>
+    <SubType>Water Elemental</SubType>
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>114 (12d10 + 48)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>125</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>121</ID>
+  </Monster>
+  <Monster>
+    <Name>Drow</Name>
+    <Type>Humanoid</Type>
+    <SubType>Drow</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>013 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>128</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>122</ID>
+  </Monster>
+  <Monster>
+    <Name>Drow Elite Warrior</Name>
+    <Type>Humanoid</Type>
+    <SubType>Drow</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>071 (11d8 + 22)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>128</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>123</ID>
+  </Monster>
+  <Monster>
+    <Name>Drow Mage</Name>
+    <Type>Humanoid</Type>
+    <SubType>Drow</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>045 (10d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>129</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>124</ID>
+  </Monster>
+  <Monster>
+    <Name>Drow Priestess of Lolth</Name>
+    <Type>Humanoid</Type>
+    <SubType>Drow</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>071 (13d8 + 13)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>129</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>153</ID>
+  </Monster>
+  <Monster>
+    <Name>Empyrean</Name>
+    <Type>Celestial</Type>
+    <SubType>Titan</SubType>
+    <Territory>Upper Planes</Territory>
+    <ChallengeRating>23 (50,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Good / Neutral Evil</Alignment>
+    <ArmorClass>22</ArmorClass>
+    <HealthPoints>313 (19d12 + 190)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>130</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>154</ID>
+  </Monster>
+  <Monster>
+    <Name>Ettercap</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Dark Forests</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>044 (8d8 + 8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>131</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>127</ID>
+  </Monster>
+  <Monster>
+    <Name>Ettin</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>085 (10d10 + 30)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>132</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>128</ID>
+  </Monster>
+  <Monster>
+    <Name>Faerie Dragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>014 (4d4 + 4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>133</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>129</ID>
+  </Monster>
+  <Monster>
+    <Name>Flameskull</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>040 (9d4 + 18)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>134</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>130</ID>
+  </Monster>
+  <Monster>
+    <Name>Flumph</Name>
+    <Type>Aberration</Type>
+    <SubType />
+    <Territory>Underdark</Territory>
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>007 (2d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>135</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>131</ID>
+  </Monster>
+  <Monster>
+    <Name>Fomorian</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory>Underdark</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>149 (13d12 + 65)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>136</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>132</ID>
+  </Monster>
+  <Monster>
+    <Name>Gas Spore</Name>
+    <Type>Plant</Type>
+    <SubType>Fungi</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>05</ArmorClass>
+    <HealthPoints>001 (1d10 - 4)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>138</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>133</ID>
+  </Monster>
+  <Monster>
+    <Name>Shrieker</Name>
+    <Type>Plant</Type>
+    <SubType>Fungi</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>05</ArmorClass>
+    <HealthPoints>013 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>138</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>134</ID>
+  </Monster>
+  <Monster>
+    <Name>Violet Fungus</Name>
+    <Type>Plant</Type>
+    <SubType>Fungi</SubType>
+    <Territory>Caves, Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>05</ArmorClass>
+    <HealthPoints>018 (4d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>138</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>135</ID>
+  </Monster>
+  <Monster>
+    <Name>Galeb Duhr</Name>
+    <Type>Elemental</Type>
+    <SubType>Earth Elemental</SubType>
+    <Territory>Plane of Earth</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>085 (9d8 + 45)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>139</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>136</ID>
+  </Monster>
+  <Monster>
+    <Name>Gargoyle</Name>
+    <Type>Elemental</Type>
+    <SubType>Earth Elemental</SubType>
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>052 (7d8 + 21)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>140</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>137</ID>
+  </Monster>
+  <Monster>
+    <Name>Dao</Name>
+    <Type>Elemental</Type>
+    <SubType>Earth Elemental</SubType>
+    <Territory>Plane of Earth</Territory>
+    <ChallengeRating>11 (7,200 XP)</ChallengeRating>
+    <Alignment>Large</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>187 (15d10 + 105)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>143</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>138</ID>
+  </Monster>
+  <Monster>
+    <Name>Djinni</Name>
+    <Type>Elemental</Type>
+    <SubType>Air Elemental</SubType>
+    <Territory>Plane of Air</Territory>
+    <ChallengeRating>11 (7,200 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>161 (14d10 + 84)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>144</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>139</ID>
+  </Monster>
+  <Monster>
+    <Name>Efreeti</Name>
+    <Type>Elemental</Type>
+    <SubType>Fire Elemental</SubType>
+    <Territory>Plane of Fire</Territory>
+    <ChallengeRating>11 (7,200 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>200 (16d10 + 112)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>145</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>140</ID>
+  </Monster>
+  <Monster>
+    <Name>Marid</Name>
+    <Type>Elemental</Type>
+    <SubType>Water Elemental</SubType>
+    <Territory>Plane of Water</Territory>
+    <ChallengeRating>11 (7,200 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>229 (17d10 + 136)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>146</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>141</ID>
+  </Monster>
+  <Monster>
+    <Name>Ghost</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>045 (10d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>147</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>180</ID>
+  </Monster>
+  <Monster>
+    <Name>Ghast</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>036 (8d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>148</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>143</ID>
+  </Monster>
+  <Monster>
+    <Name>Ghoul</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>022 (5d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>148</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>144</ID>
+  </Monster>
+  <Monster>
+    <Name>Cloud Giant</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory>High Mountain Peaks</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Neutral Good / Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>200 (16d12 + 96)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>154</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>145</ID>
+  </Monster>
+  <Monster>
+    <Name>Fire Giant</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory>Volcanos, Lava Caverns</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>162 (13d12 + 78)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>154</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>146</ID>
+  </Monster>
+  <Monster>
+    <Name>Frost Giant</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory>High Mountain Peaks, Glacial Rifts</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>138 (12d12 + 60)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>155</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>147</ID>
+  </Monster>
+  <Monster>
+    <Name>Hill Giant</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory>Hills, Mountain Valleys</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>105 (10d12 + 40)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>155</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>149</ID>
+  </Monster>
+  <Monster>
+    <Name>Stone Giant</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Underground</Territory>
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>126 (11d12 + 55)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>156</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>150</ID>
+  </Monster>
+  <Monster>
+    <Name>Storm Giant</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory>Cloud tops, High Mountain Peaks, Deep Oceans</Territory>
+    <ChallengeRating>13 (10,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>230 (20d12 + 100)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>156</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>151</ID>
+  </Monster>
+  <Monster>
+    <Name>Gibbering Mouther</Name>
+    <Type>Aberration</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>09</ArmorClass>
+    <HealthPoints>067 (9d8 + 27)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>157</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>155</ID>
+  </Monster>
+  <Monster>
+    <Name>Githyanki Warrior</Name>
+    <Type>Humanoid</Type>
+    <SubType>Gith</SubType>
+    <Territory>Astral Plane</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>049 (9d8 + 9)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>160</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>156</ID>
+  </Monster>
+  <Monster>
+    <Name>Githyanki Knight</Name>
+    <Type>Humanoid</Type>
+    <SubType>Gith</SubType>
+    <Territory>Astral Plane</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>091 (14d8 + 28)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>160</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>157</ID>
+  </Monster>
+  <Monster>
+    <Name>Githzerai Monk</Name>
+    <Type>Humanoid</Type>
+    <SubType>Gith</SubType>
+    <Territory>Astral Plane</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>039 (7d8 + 7)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>161</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>158</ID>
+  </Monster>
+  <Monster>
+    <Name>Githzerai Zerth</Name>
+    <Type>Humanoid</Type>
+    <SubType>Gith</SubType>
+    <Territory>Astral Plane</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>084 (13d8 + 26)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>161</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>159</ID>
+  </Monster>
+  <Monster>
+    <Name>Gnoll</Name>
+    <Type>Humanoid</Type>
+    <SubType>Gnoll</SubType>
+    <Territory>Wilderness</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>022 (5d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>163</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>160</ID>
+  </Monster>
+  <Monster>
+    <Name>Gnoll Pack Lord</Name>
+    <Type>Humanoid</Type>
+    <SubType>Gnoll</SubType>
+    <Territory>Wilderness</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>049 (9d8 + 9)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>163</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>161</ID>
+  </Monster>
+  <Monster>
+    <Name>Gnoll Fang of Yeenoghu</Name>
+    <Type>Humanoid</Type>
+    <SubType>Gnoll</SubType>
+    <Territory>Wilderness</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>065 (10d8 + 20)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>163</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>162</ID>
+  </Monster>
+  <Monster>
+    <Name>Deep Gnome (Svirfneblin)</Name>
+    <Type>Humanoid</Type>
+    <SubType>Gnome</SubType>
+    <Territory>Caverns, Underground</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Neutral Good</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>016 (3d6 + 6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>164</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>163</ID>
+  </Monster>
+  <Monster>
+    <Name>Goblin</Name>
+    <Type>Humanoid</Type>
+    <SubType>Goblinoid</SubType>
+    <Territory>Caves, Abandoned Mines, Dungeons</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>007 (2d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>166</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>164</ID>
+  </Monster>
+  <Monster>
+    <Name>Goblin Boss</Name>
+    <Type>Humanoid</Type>
+    <SubType>Goblinoid</SubType>
+    <Territory>Caves, Abandoned Mines, Dungeons</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>021 (6d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>166</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>165</ID>
+  </Monster>
+  <Monster>
+    <Name>Clay Golem</Name>
+    <Type>Construct</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>133 (14d10 + 56)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>168</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>166</ID>
+  </Monster>
+  <Monster>
+    <Name>Flesh Golem</Name>
+    <Type>Construct</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>09</ArmorClass>
+    <HealthPoints>093 (11d8 + 44)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>169</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>167</ID>
+  </Monster>
+  <Monster>
+    <Name>Iron Golem</Name>
+    <Type>Construct</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>16 (15,000 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>210 (20d10 + 100)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>170</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>168</ID>
+  </Monster>
+  <Monster>
+    <Name>Stone Golem</Name>
+    <Type>Construct</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>10 (5,900 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>178 (17d10 + 85)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>170</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>169</ID>
+  </Monster>
+  <Monster>
+    <Name>Gorgon</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>114 (12d10 + 48)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>171</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>170</ID>
+  </Monster>
+  <Monster>
+    <Name>Grell</Name>
+    <Type>Aberration</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Dungeons, Underground</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>055 (10d8 + 10)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>172</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>171</ID>
+  </Monster>
+  <Monster>
+    <Name>Grick</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Grick</SubType>
+    <Territory>Caves, Caverns</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>027 (6d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>173</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>172</ID>
+  </Monster>
+  <Monster>
+    <Name>Grick Alpha</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Grick</SubType>
+    <Territory>Caves, Caverns</Territory>
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>075 (10d10 + 20)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>173</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>173</ID>
+  </Monster>
+  <Monster>
+    <Name>Griffon</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Plains, Forests, Cliffs</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>059 (7d10 + 21)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>174</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>174</ID>
+  </Monster>
+  <Monster>
+    <Name>Grimlock</Name>
+    <Type>Humanoid</Type>
+    <SubType>Grimlock</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>175</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>175</ID>
+  </Monster>
+  <Monster>
+    <Name>Green Hag</Name>
+    <Type>Fey</Type>
+    <SubType />
+    <Territory>Dark Dying Forests, Swamps, Misty Moors</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>082 (11d8 + 33)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>177</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>176</ID>
+  </Monster>
+  <Monster>
+    <Name>Night Hag</Name>
+    <Type>Fiend</Type>
+    <SubType />
+    <Territory>Lower Planes</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>112 (15d8 + 45)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>178</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>177</ID>
+  </Monster>
+  <Monster>
+    <Name>Sea Hag</Name>
+    <Type>Fey</Type>
+    <SubType />
+    <Territory>Lakes, Rivers, Oceans</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>052 (7d8 + 21)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>179</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>178</ID>
+  </Monster>
+  <Monster>
+    <Name>Half Dragon</Name>
+    <Type>Humanoid</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating />
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass />
+    <HealthPoints />
+    <Size>Medium</Size>
+    <PageNumber>180</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>179</ID>
+  </Monster>
+  <Monster>
+    <Name>Harpy</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Mountains, Cliffs</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>038 (7d8 + 7)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>181</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>181</ID>
+  </Monster>
+  <Monster>
+    <Name>Hell Hound</Name>
+    <Type>Fiend</Type>
+    <SubType />
+    <Territory>Lower Planes, Acheron</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>045 (7d8 + 14)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>182</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>182</ID>
+  </Monster>
+  <Monster>
+    <Name>Helmed Horror</Name>
+    <Type>Construct</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>060 (8d8 + 24)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>183</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>183</ID>
+  </Monster>
+  <Monster>
+    <Name>Hippogriff</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>019 (3d10 + 3)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>184</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>184</ID>
+  </Monster>
+  <Monster>
+    <Name>Hobgoblin</Name>
+    <Type>Humanoid</Type>
+    <SubType>Goblinoid</SubType>
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>186</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>185</ID>
+  </Monster>
+  <Monster>
+    <Name>Hobgoblin Captain</Name>
+    <Type>Humanoid</Type>
+    <SubType>Goblinoid</SubType>
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>039 (6d8 + 12)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>186</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>186</ID>
+  </Monster>
+  <Monster>
+    <Name>Hobgoblin Warlord</Name>
+    <Type>Humanoid</Type>
+    <SubType>Goblinoid</SubType>
+    <Territory />
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>097 (13d8 + 39)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>187</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>187</ID>
+  </Monster>
+  <Monster>
+    <Name>Homunculus</Name>
+    <Type>Construct</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>005 (2d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>188</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>188</ID>
+  </Monster>
+  <Monster>
+    <Name>Hook Horror</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Underdark</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>075 (10d10 + 20)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>189</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>189</ID>
+  </Monster>
+  <Monster>
+    <Name>Hydra</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Rivers, Lakeshores, Ocean Shallows, Swamps, Marshes</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>172 (15d12 + 75)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>190</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>190</ID>
+  </Monster>
+  <Monster>
+    <Name>Intellect Devourer</Name>
+    <Type>Aberration</Type>
+    <SubType>Illithid</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>021 (6d4 + 6)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>191</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>191</ID>
+  </Monster>
+  <Monster>
+    <Name>Invisible Stalker</Name>
+    <Type>Elemental</Type>
+    <SubType>Air Elemental</SubType>
+    <Territory />
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>104 (16d8 + 32)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>192</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>192</ID>
+  </Monster>
+  <Monster>
+    <Name>Jackalwere</Name>
+    <Type>Humanoid</Type>
+    <SubType>Shapechanger</SubType>
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>018 (4d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>193</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>193</ID>
+  </Monster>
+  <Monster>
+    <Name>Kenku</Name>
+    <Type>Humanoid</Type>
+    <SubType>Kenku</SubType>
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>013 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>194</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>194</ID>
+  </Monster>
+  <Monster>
+    <Name>Winged Kobold</Name>
+    <Type>Humanoid</Type>
+    <SubType>Kobold</SubType>
+    <Territory>Caves, Caverns, Underground</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>007 (3d6 - 3)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>195</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>195</ID>
+  </Monster>
+  <Monster>
+    <Name>Kobold</Name>
+    <Type>Humanoid</Type>
+    <SubType>Kobold</SubType>
+    <Territory>Caves, Caverns, Underground</Territory>
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>005 (2d6 - 2)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>195</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>196</ID>
+  </Monster>
+  <Monster>
+    <Name>Kraken</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Titan</SubType>
+    <Territory>Sunken Rift, Underwater Cavern</Territory>
+    <ChallengeRating>23 (50,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>472 (27d20 + 189)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>197</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>197</ID>
+  </Monster>
+  <Monster>
+    <Name>Kuo-Toa</Name>
+    <Type>Humanoid</Type>
+    <SubType>Kuo-Toa</SubType>
+    <Territory>Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>018 (4d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>199</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>198</ID>
+  </Monster>
+  <Monster>
+    <Name>Kuo-Toa Archpriest</Name>
+    <Type>Humanoid</Type>
+    <SubType>Kuo-Toa</SubType>
+    <Territory>Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>097 (13d8 + 39)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>200</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>199</ID>
+  </Monster>
+  <Monster>
+    <Name>Kuo-Toa Whip</Name>
+    <Type>Humanoid</Type>
+    <SubType>Kuo-Toa</SubType>
+    <Territory>Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>065 (10d8 + 20)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>200</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>200</ID>
+  </Monster>
+  <Monster>
+    <Name>Lamia</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Desert Ruins, Tombs</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>097 (13d10 + 26)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>201</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>201</ID>
+  </Monster>
+  <Monster>
+    <Name>Lich</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>21 (33,000 XP)</ChallengeRating>
+    <Alignment>Any Evil Alignment</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>135 (18d8 + 54)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>202</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>202</ID>
+  </Monster>
+  <Monster>
+    <Name>Lizardfolk</Name>
+    <Type>Humanoid</Type>
+    <SubType>Lizardfolk</SubType>
+    <Territory>Swamps, Marshes, Jungles</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>022 (4d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>204</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>203</ID>
+  </Monster>
+  <Monster>
+    <Name>Lizardfolk Shaman</Name>
+    <Type>Humanoid</Type>
+    <SubType>Lizardfolk</SubType>
+    <Territory>Swamps, Marshes, Jungles</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>027 (5d8 + 5)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>205</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>204</ID>
+  </Monster>
+  <Monster>
+    <Name>Lizard King / Queen</Name>
+    <Type>Humanoid</Type>
+    <SubType>Lizardfolk</SubType>
+    <Territory>Swamps, Marshes, Jungles</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>078 (12d8 + 24)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>205</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>205</ID>
+  </Monster>
+  <Monster>
+    <Name>Werebear</Name>
+    <Type>Humanoid</Type>
+    <SubType>Lycanthrope, Shapechanger</SubType>
+    <Territory>Wilderness</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Good</Alignment>
+    <ArmorClass>10 / 11</ArmorClass>
+    <HealthPoints>135 (18d8 + 54)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>208</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>206</ID>
+  </Monster>
+  <Monster>
+    <Name>Wereboar</Name>
+    <Type>Humanoid</Type>
+    <SubType>Lycanthrope, Shapechanger</SubType>
+    <Territory>Forest</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>10 / 11</ArmorClass>
+    <HealthPoints>078 (12d8 + 24)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>209</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>207</ID>
+  </Monster>
+  <Monster>
+    <Name>Wererat</Name>
+    <Type>Humanoid</Type>
+    <SubType>Lycanthrope, Shapechanger</SubType>
+    <Territory>Cellars, Catacombs, Sewers</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>033 (6d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>209</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>208</ID>
+  </Monster>
+  <Monster>
+    <Name>Weretiger</Name>
+    <Type>Humanoid</Type>
+    <SubType>Lycanthrope, Shapechanger</SubType>
+    <Territory>Jungles</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>120 (16d8 + 48)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>210</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>209</ID>
+  </Monster>
+  <Monster>
+    <Name>Werewolf</Name>
+    <Type>Humanoid</Type>
+    <SubType>Lycanthrope, Shapechanger</SubType>
+    <Territory>Wilderness</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>11 / 12</ArmorClass>
+    <HealthPoints>058 (9d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>211</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>210</ID>
+  </Monster>
+  <Monster>
+    <Name>Magmin</Name>
+    <Type>Elemental</Type>
+    <SubType>Fire Elemental</SubType>
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>009 (2d6 + 2)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>212</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>211</ID>
+  </Monster>
+  <Monster>
+    <Name>Manticore</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Mountains</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>068 (8d10 + 24)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>213</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>212</ID>
+  </Monster>
+  <Monster>
+    <Name>Medusa</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Ruins</Territory>
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>127 (17d8 + 51)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>214</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>213</ID>
+  </Monster>
+  <Monster>
+    <Name>Dust Mephit</Name>
+    <Type>Elemental</Type>
+    <SubType>Earth / Air Elemental</SubType>
+    <Territory>Catacombs</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>017 (5d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>215</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>214</ID>
+  </Monster>
+  <Monster>
+    <Name>Ice Mephit</Name>
+    <Type>Elemental</Type>
+    <SubType>Air / Water Elemental</SubType>
+    <Territory>Ice Caves</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>021 (6d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>215</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>215</ID>
+  </Monster>
+  <Monster>
+    <Name>Magma Mephit</Name>
+    <Type>Elemental</Type>
+    <SubType>Earth / Fire Elemental</SubType>
+    <Territory>Volcanos, Lava Caverns</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>022 (5d6 + 5)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>216</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>216</ID>
+  </Monster>
+  <Monster>
+    <Name>Mud Mephit</Name>
+    <Type>Elemental</Type>
+    <SubType>Earth / Water Elemental</SubType>
+    <Territory>Swamps, Marshes</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>027 (6d6 + 6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>215</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>217</ID>
+  </Monster>
+  <Monster>
+    <Name>Smoke Mephit</Name>
+    <Type>Elemental</Type>
+    <SubType>Air / Fire Elemental</SubType>
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>022 (5d6 + 5)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>217</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>218</ID>
+  </Monster>
+  <Monster>
+    <Name>Steam Mephit</Name>
+    <Type>Elemental</Type>
+    <SubType>Fire / Water Elemental</SubType>
+    <Territory>Hot Springs</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>021 (6d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>217</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>219</ID>
+  </Monster>
+  <Monster>
+    <Name>Merfolk</Name>
+    <Type>Humanoid</Type>
+    <SubType>Merfolk</SubType>
+    <Territory>Undersea Cavers, Sunken City Ruins</Territory>
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>218</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>220</ID>
+  </Monster>
+  <Monster>
+    <Name>Merrow</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Infinite Layers of the Abyss</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>045 (6d10 + 12)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>219</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>221</ID>
+  </Monster>
+  <Monster>
+    <Name>Mimic</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Shapechanger</SubType>
+    <Territory>Dungeons</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>058 (9d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>220</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>222</ID>
+  </Monster>
+  <Monster>
+    <Name>Mind Flayer</Name>
+    <Type>Aberration</Type>
+    <SubType>Illithid</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>071 (13d8 + 13)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>222</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>223</ID>
+  </Monster>
+  <Monster>
+    <Name>Minotaur</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Dungeons, Labyrinth, Caverns, Ruins</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>076 (9d10 + 27)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>223</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>224</ID>
+  </Monster>
+  <Monster>
+    <Name>Monodrone</Name>
+    <Type>Construct</Type>
+    <SubType>Modron</SubType>
+    <Territory>Mechanus</Territory>
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>005 (1d8 + 1)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>224</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>225</ID>
+  </Monster>
+  <Monster>
+    <Name>Duodrone</Name>
+    <Type>Construct</Type>
+    <SubType>Modron</SubType>
+    <Territory>Mechanus</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>225</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>226</ID>
+  </Monster>
+  <Monster>
+    <Name>Tridrone</Name>
+    <Type>Construct</Type>
+    <SubType>Modron</SubType>
+    <Territory>Mechanus</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>016 (3d8 + 3)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>225</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>227</ID>
+  </Monster>
+  <Monster>
+    <Name>Quadrone</Name>
+    <Type>Construct</Type>
+    <SubType>Modron</SubType>
+    <Territory>Mechanus</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>022 (4d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>226</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>228</ID>
+  </Monster>
+  <Monster>
+    <Name>Pentadrone</Name>
+    <Type>Construct</Type>
+    <SubType>Modron</SubType>
+    <Territory>Mechanus</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>032 (5d10 + 5)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>226</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>229</ID>
+  </Monster>
+  <Monster>
+    <Name>Mummy</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory>Ancient Temples, Tombs, Catacombs</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>058 (9d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>228</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>230</ID>
+  </Monster>
+  <Monster>
+    <Name>Mummy Lord</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory>Ancient Temples, Tombs, Catacombs</Territory>
+    <ChallengeRating>15 (13,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>097 (13d8 + 39)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>229</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>231</ID>
+  </Monster>
+  <Monster>
+    <Name>Myconid Sprout</Name>
+    <Type>Plant</Type>
+    <SubType>Myconid</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>007 (2d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>230</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>232</ID>
+  </Monster>
+  <Monster>
+    <Name>Spore Servant</Name>
+    <Type>Plant</Type>
+    <SubType>Myconid</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating />
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass />
+    <HealthPoints />
+    <Size />
+    <PageNumber>230</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes>Any Large or Smaller Creature</Notes>
+    <ID>233</ID>
+  </Monster>
+  <Monster>
+    <Name>Myconid Adult</Name>
+    <Type>Plant</Type>
+    <SubType>Myconid</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>022 (4d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>232</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>234</ID>
+  </Monster>
+  <Monster>
+    <Name>Myconid Soverign</Name>
+    <Type>Plant</Type>
+    <SubType>Myconid</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>060 (8d10 + 16)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>232</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>235</ID>
+  </Monster>
+  <Monster>
+    <Name>Bone Naga</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory>Ancient Ruins</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>058 (9d10 + 9)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>233</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>236</ID>
+  </Monster>
+  <Monster>
+    <Name>Spirit Naga</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Naga</SubType>
+    <Territory>Caverns, Ancient Ruins</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>075 (10d10 + 20)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>234</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>237</ID>
+  </Monster>
+  <Monster>
+    <Name>Guardian Naga</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Naga</SubType>
+    <Territory>Ancient Ruins</Territory>
+    <ChallengeRating>10 (5,900 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>127 (15d10 + 45)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>234</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>238</ID>
+  </Monster>
+  <Monster>
+    <Name>Nightmare</Name>
+    <Type>Fiend</Type>
+    <SubType />
+    <Territory>Lower Planes</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>068 (8d10 + 24)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>235</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>239</ID>
+  </Monster>
+  <Monster>
+    <Name>Nothic</Name>
+    <Type>Aberration</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Ruins, Dungeons</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>045 (6d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>236</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>240</ID>
+  </Monster>
+  <Monster>
+    <Name>Orge</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>059 (7d10 + 21)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>237</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>241</ID>
+  </Monster>
+  <Monster>
+    <Name>Half Ogre</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Any Chaotic Alignment</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>030 (4d10 + 8)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>238</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>242</ID>
+  </Monster>
+  <Monster>
+    <Name>Oni</Name>
+    <Type>Giant</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>110 (13d10 + 39)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>239</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>243</ID>
+  </Monster>
+  <Monster>
+    <Name>Black Pudding</Name>
+    <Type>Ooze</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Dungeons</Territory>
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>07</ArmorClass>
+    <HealthPoints>085 (10d10 + 30)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>241</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>244</ID>
+  </Monster>
+  <Monster>
+    <Name>Gelatinous Cube</Name>
+    <Type>Ooze</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Dungeons</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>06</ArmorClass>
+    <HealthPoints>084 (8d10 + 40)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>242</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>245</ID>
+  </Monster>
+  <Monster>
+    <Name>Gray Ooze</Name>
+    <Type>Ooze</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Dungeons</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>08</ArmorClass>
+    <HealthPoints>022 (3d8 + 9)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>243</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>246</ID>
+  </Monster>
+  <Monster>
+    <Name>Ochre Jelly</Name>
+    <Type>Ooze</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Dungeons</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>08</ArmorClass>
+    <HealthPoints>045 (6d10 + 12)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>243</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>247</ID>
+  </Monster>
+  <Monster>
+    <Name>Orc</Name>
+    <Type>Humanoid</Type>
+    <SubType>Orc</SubType>
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>015 (2d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>246</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>248</ID>
+  </Monster>
+  <Monster>
+    <Name>Orc War Chief</Name>
+    <Type>Humanoid</Type>
+    <SubType>Orc</SubType>
+    <Territory />
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>093 (11d8 + 44)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>246</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>249</ID>
+  </Monster>
+  <Monster>
+    <Name>Orc Eye of Gruumsh</Name>
+    <Type>Humanoid</Type>
+    <SubType>Orc</SubType>
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>045 (6d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>247</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>250</ID>
+  </Monster>
+  <Monster>
+    <Name>Orog</Name>
+    <Type>Humanoid</Type>
+    <SubType>Orc</SubType>
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>042 (5d8 + 20)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>247</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>251</ID>
+  </Monster>
+  <Monster>
+    <Name>Otyugh</Name>
+    <Type>Aberration</Type>
+    <SubType />
+    <Territory>Swamps, Marshes, Graveyards, Sewers</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>114 (12d10 + 48)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>248</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>252</ID>
+  </Monster>
+  <Monster>
+    <Name>Owlbear</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Dark Valleys, Forests</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>059 (7d10 + 2)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>249</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>253</ID>
+  </Monster>
+  <Monster>
+    <Name>Pegasus</Name>
+    <Type>Celestial</Type>
+    <SubType />
+    <Territory>Arborea</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>059 (7d10 + 21)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>250</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>254</ID>
+  </Monster>
+  <Monster>
+    <Name>Peryton</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Mountains</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>033 (6d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>251</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>255</ID>
+  </Monster>
+  <Monster>
+    <Name>Piercer</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Caves, Caverns</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>022 (3d8 + 9)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>252</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>256</ID>
+  </Monster>
+  <Monster>
+    <Name>Pixie</Name>
+    <Type>Fey</Type>
+    <SubType />
+    <Territory>Feywild, Forest</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Good</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>253</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>257</ID>
+  </Monster>
+  <Monster>
+    <Name>Pseudodragon</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory>Forest, Caves</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Good</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>007 (2d4 + 2)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>254</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>258</ID>
+  </Monster>
+  <Monster>
+    <Name>Purple Worm</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Underdark</Territory>
+    <ChallengeRating>15 (13,000 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>247 (15d20 + 90)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>255</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>259</ID>
+  </Monster>
+  <Monster>
+    <Name>Quaggoth</Name>
+    <Type>Humanoid</Type>
+    <SubType>Quaggoth</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>045 (6d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>256</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>260</ID>
+  </Monster>
+  <Monster>
+    <Name>Rakshasa</Name>
+    <Type>Fiend</Type>
+    <SubType />
+    <Territory>The Nine Hells, Cities, Towns</Territory>
+    <ChallengeRating>13 (10,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>110 (13d8 + 52)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>257</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>261</ID>
+  </Monster>
+  <Monster>
+    <Name>Young Remorhaz</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Remorhaz</SubType>
+    <Territory>Artic, Taiga, Icy Wastes</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>093 (11d10 + 33)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>258</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>262</ID>
+  </Monster>
+  <Monster>
+    <Name>Remorhaz</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Remorhaz</SubType>
+    <Territory>Arctic, Taiga, Icy Wastes</Territory>
+    <ChallengeRating>17</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>195 (17d12 + 85)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>258</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>263</ID>
+  </Monster>
+  <Monster>
+    <Name>Revenant</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>136 (16d8 + 64)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>259</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>264</ID>
+  </Monster>
+  <Monster>
+    <Name>Roc</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Mountain Peaks</Territory>
+    <ChallengeRating>11 (7,200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>248 (16d20 + 80)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>260</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>265</ID>
+  </Monster>
+  <Monster>
+    <Name>Roper</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Caves, Caverns</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>20</ArmorClass>
+    <HealthPoints>093 (11d10 + 33)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>261</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>266</ID>
+  </Monster>
+  <Monster>
+    <Name>Rust Monster</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Caverns, Underdark, Underground</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>027 (5d8 + 5)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>262</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>267</ID>
+  </Monster>
+  <Monster>
+    <Name>Sahuagin</Name>
+    <Type>Humanoid</Type>
+    <SubType>Sahuagin</SubType>
+    <Territory>Oceans</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>022 (4d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>263</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>268</ID>
+  </Monster>
+  <Monster>
+    <Name>Sahuagin Priestess</Name>
+    <Type>Humanoid</Type>
+    <SubType>Sahuagin</SubType>
+    <Territory>Oceans</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>033 (6d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>264</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>269</ID>
+  </Monster>
+  <Monster>
+    <Name>Sahuagin Baron</Name>
+    <Type>Humanoid</Type>
+    <SubType>Sahuagin</SubType>
+    <Territory>Oceans</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>076 (9d10 + 27)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>264</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>270</ID>
+  </Monster>
+  <Monster>
+    <Name>Fire Snake</Name>
+    <Type>Elemental</Type>
+    <SubType>Salamander, Fire Elemental</SubType>
+    <Territory>Plane of Fire, Volcanoes, Forest Fires</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>022 (5d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>265</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>271</ID>
+  </Monster>
+  <Monster>
+    <Name>Salamander</Name>
+    <Type>Elemental</Type>
+    <SubType>Salamander, Fire Elemental</SubType>
+    <Territory>Plane of Fire, Volcanoes, Forest Fires</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>090 (12d10 + 24)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>266</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>272</ID>
+  </Monster>
+  <Monster>
+    <Name>Satyr</Name>
+    <Type>Fey</Type>
+    <SubType />
+    <Territory>Feywild, Forest, Wilderness</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>031 (7d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>267</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>273</ID>
+  </Monster>
+  <Monster>
+    <Name>Scarecrow</Name>
+    <Type>Construct</Type>
+    <SubType />
+    <Territory>Fields, Plains</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>036 (8d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>268</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>274</ID>
+  </Monster>
+  <Monster>
+    <Name>Shadow</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>016 (3d8 + 3)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>269</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>275</ID>
+  </Monster>
+  <Monster>
+    <Name>Shambling Mound</Name>
+    <Type>Plant</Type>
+    <SubType />
+    <Territory>Swamps, Marshes</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>136 (16d10 + 48)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>270</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>276</ID>
+  </Monster>
+  <Monster>
+    <Name>Shield Guardian</Name>
+    <Type>Construct</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>142 (15d10 + 60)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>271</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>277</ID>
+  </Monster>
+  <Monster>
+    <Name>Skeleton</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>013 (2d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>272</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>278</ID>
+  </Monster>
+  <Monster>
+    <Name>Minotaur Skeleton</Name>
+    <Type>Undead</Type>
+    <SubType>Skeleton</SubType>
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>067 (9d10 + 18)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>273</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>279</ID>
+  </Monster>
+  <Monster>
+    <Name>Warhorse Skeleton</Name>
+    <Type>Undead</Type>
+    <SubType>Skeleton</SubType>
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>022 (3d10 + 6)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>273</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>280</ID>
+  </Monster>
+  <Monster>
+    <Name>Red Slaad</Name>
+    <Type>Aberration</Type>
+    <SubType>Slaadi</SubType>
+    <Territory>Limbo</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>093 (11d10 + 33)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>276</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>281</ID>
+  </Monster>
+  <Monster>
+    <Name>Slaad Tadpole</Name>
+    <Type>Aberration</Type>
+    <SubType>Slaadi</SubType>
+    <Territory>Limbo</Territory>
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>010 (4d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>276</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>282</ID>
+  </Monster>
+  <Monster>
+    <Name>Blue Slaad</Name>
+    <Type>Aberration</Type>
+    <SubType>Slaadi</SubType>
+    <Territory>Limbo</Territory>
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>123 (13d10 + 52)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>276</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>283</ID>
+  </Monster>
+  <Monster>
+    <Name>Green Slaad</Name>
+    <Type>Aberration, Shapechanger</Type>
+    <SubType>Slaadi</SubType>
+    <Territory>Limbo</Territory>
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>127 (15d10 + 45)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>277</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>284</ID>
+  </Monster>
+  <Monster>
+    <Name>Gray Slaad</Name>
+    <Type>Aberration, Shapechanger</Type>
+    <SubType>Slaadi</SubType>
+    <Territory>Limbo</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>127 (17d8 + 51)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>277</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>285</ID>
+  </Monster>
+  <Monster>
+    <Name>Death Slaad</Name>
+    <Type>Aberration, Shapechanger</Type>
+    <SubType>Slaadi</SubType>
+    <Territory>Limbo</Territory>
+    <ChallengeRating>10 (5,900 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>170 (20d8 + 80)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>278</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>286</ID>
+  </Monster>
+  <Monster>
+    <Name>Specter</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>022 (5d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>279</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>287</ID>
+  </Monster>
+  <Monster>
+    <Name>Androsphinx</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Sphinx</SubType>
+    <Territory>Ancient Tombs, Ruins</Territory>
+    <ChallengeRating>17 (18,000 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>199 (19d10 + 95)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>281</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>288</ID>
+  </Monster>
+  <Monster>
+    <Name>Gynosphinx</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Sphinx</SubType>
+    <Territory>Ancient Tombs, Ruins</Territory>
+    <ChallengeRating>11 (7,200 XP)</ChallengeRating>
+    <Alignment>Lawful Neutral</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>136 (16d10 + 48)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>282</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>289</ID>
+  </Monster>
+  <Monster>
+    <Name>Sprite</Name>
+    <Type>Fey</Type>
+    <SubType />
+    <Territory>Feywilds, Forest, Groves</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Good</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>02 (1d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>283</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>290</ID>
+  </Monster>
+  <Monster>
+    <Name>Stirge</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>02 (1d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>284</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>291</ID>
+  </Monster>
+  <Monster>
+    <Name>Succubus / Incubus</Name>
+    <Type>Fiend, Shapechanger</Type>
+    <SubType />
+    <Territory>Lower Planes</Territory>
+    <ChallengeRating>4 (1,100 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>066 (12d8 + 12)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>285</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>292</ID>
+  </Monster>
+  <Monster>
+    <Name>Tarrasque</Name>
+    <Type>Monstrosity</Type>
+    <SubType>Titan</SubType>
+    <Territory />
+    <ChallengeRating>30 (155,000 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>25</ArmorClass>
+    <HealthPoints>676 (33d20 + 330)</HealthPoints>
+    <Size>Gargantuan</Size>
+    <PageNumber>286</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>293</ID>
+  </Monster>
+  <Monster>
+    <Name>Thri-Kreen</Name>
+    <Type>Humanoid</Type>
+    <SubType>Thri-Kreen</SubType>
+    <Territory>Deserts, Savannas</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Chaotic Neutral</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>033 (6d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>288</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>294</ID>
+  </Monster>
+  <Monster>
+    <Name>Treant</Name>
+    <Type>Plant</Type>
+    <SubType />
+    <Territory>Forest</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Good</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>138 (12d12 + 60)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>289</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>295</ID>
+  </Monster>
+  <Monster>
+    <Name>Troglodyte</Name>
+    <Type>Humanoid</Type>
+    <SubType>Troglodyte</SubType>
+    <Territory>Underdark</Territory>
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>013 (2d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>290</PageNumber>
+    <SourceBook> MM 5e</SourceBook>
+    <Notes />
+    <ID>296</ID>
+  </Monster>
+  <Monster>
+    <Name>Troll</Name>
+    <Type> Giant</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>084 (8d10 + 40)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>291</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>297</ID>
+  </Monster>
+  <Monster>
+    <Name>Umber Hulk</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Dungeons, Underdark, Underground</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>093 (11d10 + 33)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>292</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>298</ID>
+  </Monster>
+  <Monster>
+    <Name>Unicorn</Name>
+    <Type>Celestial</Type>
+    <SubType />
+    <Territory>Enchanted Forests</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>067 (9d10 + 18)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>294</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>299</ID>
+  </Monster>
+  <Monster>
+    <Name>Vampire</Name>
+    <Type>Undead, Shapechanger</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>13 (10,000 XP)</ChallengeRating>
+    <Alignment>Lawful Evil</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>144 (17d8 + 68)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>297</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>300</ID>
+  </Monster>
+  <Monster>
+    <Name>Vampire Spawn</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>082 (11d8 + 33)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>298</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>301</ID>
+  </Monster>
+  <Monster>
+    <Name>Water Weird</Name>
+    <Type>Elemental</Type>
+    <SubType>Water Elemental</SubType>
+    <Territory>Pools, Fountains</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>058 (9d10 + 9)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>299</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>302</ID>
+  </Monster>
+  <Monster>
+    <Name>Wight</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>045 (6d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>300</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>303</ID>
+  </Monster>
+  <Monster>
+    <Name>Will - O' - Wisp</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory>Swamps, Marshes, Battlefields</Territory>
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>022 (9d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>301</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>304</ID>
+  </Monster>
+  <Monster>
+    <Name>Wraith</Name>
+    <Type>Undead</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>067 (9d8 + 27)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>302</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>305</ID>
+  </Monster>
+  <Monster>
+    <Name>Wyvern</Name>
+    <Type>Dragon</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>110 (13d10 + 39)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>303</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>306</ID>
+  </Monster>
+  <Monster>
+    <Name>Xorn</Name>
+    <Type>Elemental</Type>
+    <SubType>Earth Elemental</SubType>
+    <Territory>Plane of Earth, Underdark</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>073 (7d8 + 42)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>304</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>307</ID>
+  </Monster>
+  <Monster>
+    <Name>Yeti</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Mountain Tops</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Chaotic Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>137 (11d12 + 66)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>306</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>308</ID>
+  </Monster>
+  <Monster>
+    <Name>Yuan-Ti Abomination</Name>
+    <Type>Monstrosity, Shapechanger</Type>
+    <SubType>Yuan-Ti</SubType>
+    <Territory>Jungles, Swamps, Marshes, Deserts</Territory>
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>127 (15d10 + 45)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>308</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>309</ID>
+  </Monster>
+  <Monster>
+    <Name>Yuan-Ti Malison</Name>
+    <Type>Monstrosity, Shapechanger</Type>
+    <SubType>Yuan-Ti</SubType>
+    <Territory>Jungles, Swamps, Marshes, Deserts</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>066 (12d8 + 12)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>309</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>310</ID>
+  </Monster>
+  <Monster>
+    <Name>Yuan-Ti Pureblood</Name>
+    <Type>Humanoid</Type>
+    <SubType>Yuan-Ti</SubType>
+    <Territory>Jungles, Swamps, Marshes, Deserts</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>040 (9d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>310</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>311</ID>
+  </Monster>
+  <Monster>
+    <Name>Arcanaloth</Name>
+    <Type>Fiend</Type>
+    <SubType>Yugoloth</SubType>
+    <Territory>Gehenna, Archeron, Hades, Carceri</Territory>
+    <ChallengeRating>12 (8,400 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>104 (16d8 + 32)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>313</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>312</ID>
+  </Monster>
+  <Monster>
+    <Name>Mezzoloth</Name>
+    <Type>Fiend</Type>
+    <SubType>Yugoloth</SubType>
+    <Territory>Gehenna, Archeron, Hades, Carceri</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>075 (10d8 + 30)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>313</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>313</ID>
+  </Monster>
+  <Monster>
+    <Name>Nycaloth</Name>
+    <Type>Fiend</Type>
+    <SubType>Yugoloth</SubType>
+    <Territory>Gehenna, Archeron, Hades, Carceri</Territory>
+    <ChallengeRating>09 (5,000 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>123 (13d10 + 52)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>314</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>314</ID>
+  </Monster>
+  <Monster>
+    <Name>Ultroloth</Name>
+    <Type>Fiend</Type>
+    <SubType>Yugoloth</SubType>
+    <Territory>Gehenna, Archeron, Hades, Carceri</Territory>
+    <ChallengeRating>13 (10,000 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>19</ArmorClass>
+    <HealthPoints>153 (18d8 + 72)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>314</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>315</ID>
+  </Monster>
+  <Monster>
+    <Name>Zombie</Name>
+    <Type>Undead</Type>
+    <SubType>Zombie</SubType>
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>08</ArmorClass>
+    <HealthPoints>022 (3d8 + 9)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>316</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>316</ID>
+  </Monster>
+  <Monster>
+    <Name>Ogre Zombie</Name>
+    <Type>Undead</Type>
+    <SubType>Zombie</SubType>
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>08</ArmorClass>
+    <HealthPoints>085 (9d10 + 36)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>316</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>317</ID>
+  </Monster>
+  <Monster>
+    <Name>Beholder Zombie</Name>
+    <Type>Undead</Type>
+    <SubType>Zombie</SubType>
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>093 (11d10 + 33)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>316</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>318</ID>
+  </Monster>
+  <Monster>
+    <Name>Ape</Name>
+    <Type>Beast</Type>
+    <SubType>Unaligned</SubType>
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>019 (3d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>317</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>319</ID>
+  </Monster>
+  <Monster>
+    <Name>Awakened Tree</Name>
+    <Type>Plant</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>059 (7d12 + 14)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>317</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>320</ID>
+  </Monster>
+  <Monster>
+    <Name>Awakened Shrub</Name>
+    <Type>Plant</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>09</ArmorClass>
+    <HealthPoints>010 (3d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>317</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>321</ID>
+  </Monster>
+  <Monster>
+    <Name>Axe Beak</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>019 (3d10 + 3)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>317</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>322</ID>
+  </Monster>
+  <Monster>
+    <Name>Baboon</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>003 (1d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>318</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>323</ID>
+  </Monster>
+  <Monster>
+    <Name>Badger</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>003 (1d4 + 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>318</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>324</ID>
+  </Monster>
+  <Monster>
+    <Name>Bat</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>318</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>325</ID>
+  </Monster>
+  <Monster>
+    <Name>Black Bear</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>019 (3d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>318</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>326</ID>
+  </Monster>
+  <Monster>
+    <Name>Blink Dog</Name>
+    <Type>Fey</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Lawful Good</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>022 (4d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>318</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>327</ID>
+  </Monster>
+  <Monster>
+    <Name>Blood Hawk</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>007 (2d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>319</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>328</ID>
+  </Monster>
+  <Monster>
+    <Name>Boar</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>319</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>329</ID>
+  </Monster>
+  <Monster>
+    <Name>Brown Bear</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>034 (4d10 + 12)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>319</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>330</ID>
+  </Monster>
+  <Monster>
+    <Name>Camel</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>09</ArmorClass>
+    <HealthPoints>015 (2d10 + 4)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>320</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>331</ID>
+  </Monster>
+  <Monster>
+    <Name>Cat</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>002 (1d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>320</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes>Floof</Notes>
+    <ID>332</ID>
+  </Monster>
+  <Monster>
+    <Name>Constrictor Snake</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>013 (2d10 + 2)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>320</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>333</ID>
+  </Monster>
+  <Monster>
+    <Name>Crab</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>002 (1d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>320</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>334</ID>
+  </Monster>
+  <Monster>
+    <Name>Crocodile</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>019 (3d10 + 3)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>320</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>335</ID>
+  </Monster>
+  <Monster>
+    <Name>Death Dog</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Plains, Deserts, Underdark</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>039 (6d8 + 12)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>321</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>336</ID>
+  </Monster>
+  <Monster>
+    <Name>Deer</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>004 (1d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>321</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>337</ID>
+  </Monster>
+  <Monster>
+    <Name>Dire Wolf</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>037 (5d10 + 10)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>321</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>338</ID>
+  </Monster>
+  <Monster>
+    <Name>Draft Horse</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>019 (3d10 + 3)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>321</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>339</ID>
+  </Monster>
+  <Monster>
+    <Name>Eagle</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>003 (1d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>322</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>340</ID>
+  </Monster>
+  <Monster>
+    <Name>Elephant</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>04 (1,100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>078 (8d12 + 24)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>322</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>341</ID>
+  </Monster>
+  <Monster>
+    <Name>Elk</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>013 (2d10 + 2)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>322</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>342</ID>
+  </Monster>
+  <Monster>
+    <Name>Flying Snake</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory>Jungles</Territory>
+    <ChallengeRating>1/8 (2d4)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>005 (2d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>322</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>343</ID>
+  </Monster>
+  <Monster>
+    <Name>Frog</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>322</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>344</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Ape</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>07 (2,900 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>157 (15d12 + 60)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>323</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>345</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Badger</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>013 (2d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>323</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>346</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Bat</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>022 (4d10)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>323</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>347</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Boar</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>042 (5d10 + 15)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>323</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>348</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Centipede</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>004 (1d6 + 1)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>323</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>349</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Constrictor Snake</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>060 (8d12 + 8)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>324</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>350</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Crab</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>013 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>324</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>351</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Crocodile</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>085 (9d12 + 27)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>324</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>352</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Eagle</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP</ChallengeRating>
+    <Alignment>Neutral Good)</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>026 (4d10 + 4)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>324</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>353</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Elk</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>042 (5d12 + 10)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>325</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>354</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Fire Beetle</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>004 (1d6 + 1)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>325</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>355</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Frog</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>018 (4d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>325</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>356</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Goat</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>019 (3d10 + 3)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>326</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>357</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Hyena</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>045 (6d10 + 12)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>326</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>358</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Lizard</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>019 (3d10 + 3)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>326</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>359</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Octopus</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>052 (8d10 + 8)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>326</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>360</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Owl</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Neutral</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>019 (3d10 + 3)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>327</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>361</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Poisonous Snake</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>327</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>362</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Rat</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>007 (2d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>327</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>363</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Scorpion</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>052 (7d10 + 14)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>327</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>364</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Sea Horse</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory>Oceans</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>016 (3d10)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>328</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>365</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Shark</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory>Oceans</Territory>
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>126 (11d12 + 55)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>328</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>366</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Spider</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory>Caves, Caverns, Underground</Territory>
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>026 (4d10 + 4)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>328</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>367</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Toad</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>039 (6d10 + 6)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>329</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>368</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Vulture</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>022 (3d10 + 6)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>329</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>369</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Wasp</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>13 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>329</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>370</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Weasel</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>009 (2d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>329</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>371</ID>
+  </Monster>
+  <Monster>
+    <Name>Giant Wolf Spider</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>11 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>330</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>372</ID>
+  </Monster>
+  <Monster>
+    <Name>Goat</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>004 (1d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>330</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>373</ID>
+  </Monster>
+  <Monster>
+    <Name>Hawk</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>330</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>374</ID>
+  </Monster>
+  <Monster>
+    <Name>Hunter Shark</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>045 (6d10 + 12)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>330</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>375</ID>
+  </Monster>
+  <Monster>
+    <Name>Hyena</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>005 (1d8 + 1)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>331</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>376</ID>
+  </Monster>
+  <Monster>
+    <Name>Jackal</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>003 (1d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>331</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>377</ID>
+  </Monster>
+  <Monster>
+    <Name>Killer Whale</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>090 (12d12 + 12)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>331</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>378</ID>
+  </Monster>
+  <Monster>
+    <Name>Lion</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>026 (4d10 + 4)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>331</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>379</ID>
+  </Monster>
+  <Monster>
+    <Name>Lizard</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>002 (1d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>332</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>380</ID>
+  </Monster>
+  <Monster>
+    <Name>Mammoth</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>126 (11d12 + 55)</HealthPoints>
+    <Size>Huge</Size>
+    <PageNumber>332</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>381</ID>
+  </Monster>
+  <Monster>
+    <Name>Mastiff</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>005 (1d8 + 1)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>332</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes>Heckin Good Boye</Notes>
+    <ID>382</ID>
+  </Monster>
+  <Monster>
+    <Name>Mule</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>333</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>383</ID>
+  </Monster>
+  <Monster>
+    <Name>Octopus</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory>Oceans</Territory>
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>003 (1d6)</HealthPoints>
+    <Size>Small</Size>
+    <PageNumber>333</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>384</ID>
+  </Monster>
+  <Monster>
+    <Name>Owl</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>333</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>385</ID>
+  </Monster>
+  <Monster>
+    <Name>Panther</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>013 (3d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>333</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>386</ID>
+  </Monster>
+  <Monster>
+    <Name>Phase Spider</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Ethereal Plane</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>032 (5d10 + 5)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>334</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>387</ID>
+  </Monster>
+  <Monster>
+    <Name>Poisonous Snake</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>002 (1d4)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>334</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes>Nope Rope</Notes>
+    <ID>388</ID>
+  </Monster>
+  <Monster>
+    <Name>Polar Bear</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>042 (5d10 + 15)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>334</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>389</ID>
+  </Monster>
+  <Monster>
+    <Name>Pony</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>335</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>390</ID>
+  </Monster>
+  <Monster>
+    <Name>Quipper</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>335</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>391</ID>
+  </Monster>
+  <Monster>
+    <Name>Rat</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>335</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>392</ID>
+  </Monster>
+  <Monster>
+    <Name>Raven</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>335</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>393</ID>
+  </Monster>
+  <Monster>
+    <Name>Reef Shark</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>022 (4d8 + 4)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>336</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>394</ID>
+  </Monster>
+  <Monster>
+    <Name>Rhinoceros</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Large</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>045 (6d10 + 12)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>336</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>395</ID>
+  </Monster>
+  <Monster>
+    <Name>Riding Horse</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>013 (2d10 + 2)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>336</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>396</ID>
+  </Monster>
+  <Monster>
+    <Name>Saber-Toothed Tiger</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>052 (7d10 + 14)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>336</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>397</ID>
+  </Monster>
+  <Monster>
+    <Name>Scorpion</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>337</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>398</ID>
+  </Monster>
+  <Monster>
+    <Name>Sea Horse</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (0 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>1 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>337</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>399</ID>
+  </Monster>
+  <Monster>
+    <Name>Spider</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>337</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>400</ID>
+  </Monster>
+  <Monster>
+    <Name>Swarm of Bats</Name>
+    <Type>Beast</Type>
+    <SubType>Swarm</SubType>
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>022 (5d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>337</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>401</ID>
+  </Monster>
+  <Monster>
+    <Name>Swarm of Insects</Name>
+    <Type>Beasts</Type>
+    <SubType>Swarm</SubType>
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>022 (5d8)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>338</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>402</ID>
+  </Monster>
+  <Monster>
+    <Name>Swarm of Poisonous Snakes</Name>
+    <Type>Beast</Type>
+    <SubType>Swarm</SubType>
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>14</ArmorClass>
+    <HealthPoints>028 (8d8 - 8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>338</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>403</ID>
+  </Monster>
+  <Monster>
+    <Name>Swarm of Quippers</Name>
+    <Type>Beast</Type>
+    <SubType>Swarm</SubType>
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>028 (8d8 - 8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>338</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>404</ID>
+  </Monster>
+  <Monster>
+    <Name>Swarm of Rats</Name>
+    <Type>Beast</Type>
+    <SubType>Swarm</SubType>
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>024 (7d8 - 7)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>339</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>405</ID>
+  </Monster>
+  <Monster>
+    <Name>Swarm of Ravens</Name>
+    <Type>Beast</Type>
+    <SubType>Swarm</SubType>
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>024 (7d8 - 7)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>339</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>406</ID>
+  </Monster>
+  <Monster>
+    <Name>Tiger</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>037 (5d10 + 10)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>339</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>407</ID>
+  </Monster>
+  <Monster>
+    <Name>Vulture</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>005 (1d8 + 1)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>339</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>408</ID>
+  </Monster>
+  <Monster>
+    <Name>Warhorse</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>019 (3d10 + 3)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>340</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>409</ID>
+  </Monster>
+  <Monster>
+    <Name>Weasel</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>001 (1d4 - 1)</HealthPoints>
+    <Size>Tiny</Size>
+    <PageNumber>340</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>410</ID>
+  </Monster>
+  <Monster>
+    <Name>Winter Wolf</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Arctic, Taiga</Territory>
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>075 (10d10 + 20)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>340</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>411</ID>
+  </Monster>
+  <Monster>
+    <Name>Wolf</Name>
+    <Type>Beast</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Unaligned</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>341</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>412</ID>
+  </Monster>
+  <Monster>
+    <Name>Worg</Name>
+    <Type>Monstrosity</Type>
+    <SubType />
+    <Territory>Wilderness</Territory>
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Neutral Evil</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>026 (4d10 + 4)</HealthPoints>
+    <Size>Large</Size>
+    <PageNumber>341</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>413</ID>
+  </Monster>
+  <Monster>
+    <Name>Acolyte</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/4 (50 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>009 (2d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>342</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>414</ID>
+  </Monster>
+  <Monster>
+    <Name>Archmage</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>12 (8,400 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>099 (18d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>342</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>415</ID>
+  </Monster>
+  <Monster>
+    <Name>Assassin</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>08 (3,900 XP)</ChallengeRating>
+    <Alignment>Any Non-Good Alignment</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>078 (12d8 + 24)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>343</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>416</ID>
+  </Monster>
+  <Monster>
+    <Name>Bandit</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Any Non-Lawful Alignment</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>343</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>417</ID>
+  </Monster>
+  <Monster>
+    <Name>Bandit Captain</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Any Non-Lawful Alignment</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>065 (10d8 + 20)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>344</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>418</ID>
+  </Monster>
+  <Monster>
+    <Name>Berserker</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Any Chaotic Alignment</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>067 (9d8 + 27)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>344</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>419</ID>
+  </Monster>
+  <Monster>
+    <Name>Commoner</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>0 (10 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>10</ArmorClass>
+    <HealthPoints>004 (1d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>345</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>420</ID>
+  </Monster>
+  <Monster>
+    <Name>Cultist</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Any Non-Good Alignment</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>009 (2d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>345</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>421</ID>
+  </Monster>
+  <Monster>
+    <Name>Cult Fanatic</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Any Non-Good Alignment</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>033 (6d8 + 6)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>345</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>422</ID>
+  </Monster>
+  <Monster>
+    <Name>Druid</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>027 (5d8 + 5)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>346</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>423</ID>
+  </Monster>
+  <Monster>
+    <Name>Gladiator</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>05 (1,800 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>112 (15d8 + 45)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>346</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>424</ID>
+  </Monster>
+  <Monster>
+    <Name>Guard</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>16</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>347</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>425</ID>
+  </Monster>
+  <Monster>
+    <Name>Knight</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>18</ArmorClass>
+    <HealthPoints>052 (8d8 + 16)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>347</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>426</ID>
+  </Monster>
+  <Monster>
+    <Name>Mage</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>06 (2,300 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>040 (9d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>347</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>427</ID>
+  </Monster>
+  <Monster>
+    <Name>Noble</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>15</ArmorClass>
+    <HealthPoints>009 (2d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>348</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>428</ID>
+  </Monster>
+  <Monster>
+    <Name>Priest</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>02 (450 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>027 (5d8 + 5)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>348</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>429</ID>
+  </Monster>
+  <Monster>
+    <Name>Scout</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>13</ArmorClass>
+    <HealthPoints>016 (3d8 + 3)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>349</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>430</ID>
+  </Monster>
+  <Monster>
+    <Name>Spy</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType>Any Alignment</SubType>
+    <Territory />
+    <ChallengeRating>01 (200 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>027 (6d8)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>349</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>431</ID>
+  </Monster>
+  <Monster>
+    <Name>Thug</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/2 (100 XP)</ChallengeRating>
+    <Alignment>Any Non-Good Alignment</Alignment>
+    <ArmorClass>11</ArmorClass>
+    <HealthPoints>032 (5d8 + 10)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>350</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>432</ID>
+  </Monster>
+  <Monster>
+    <Name>Tribal Warrior</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>1/8 (25 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>12</ArmorClass>
+    <HealthPoints>011 (2d8 + 2)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>350</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>433</ID>
+  </Monster>
+  <Monster>
+    <Name>Veteran</Name>
+    <Type>Humanoid (any Race)</Type>
+    <SubType />
+    <Territory />
+    <ChallengeRating>03 (700 XP)</ChallengeRating>
+    <Alignment>Any Alignment</Alignment>
+    <ArmorClass>17</ArmorClass>
+    <HealthPoints>058 (9d8 + 18)</HealthPoints>
+    <Size>Medium</Size>
+    <PageNumber>350</PageNumber>
+    <SourceBook>MM 5e</SourceBook>
+    <Notes />
+    <ID>434</ID>
+  </Monster>
+</ArrayOfMonster>

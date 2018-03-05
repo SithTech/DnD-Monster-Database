@@ -1,0 +1,6 @@
+save_name:auto_save
+load_name:auto_save
+date_format:mm/dd/yyyy
+gui:true
+check_id:false
+
